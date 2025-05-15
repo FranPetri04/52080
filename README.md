@@ -33,7 +33,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado lo siguiente:
 
 1. Clona el repositorio:
 
-git clone https://github.com/lauchanampa/51937.git
+git clone https://github.com/FranPetri04/52080.git
 
 2. Accede al proyecto y ábrelo con VS Code:
 

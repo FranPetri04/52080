@@ -1,0 +1,9 @@
+segun " otro " hacer {
+    caso " hola ":
+        imprimir("Hola!");
+    caso " adios ":
+        imprimir("Chao!");
+    defecto:
+        imprimir("No se reconoce la opcion.");
+        salir;
+} finsegun

@@ -1,0 +1,8 @@
+segun " hola " hacer {
+    caso " hola ":
+        imprimir("¡Hola mundo!")
+        salir;
+    defecto:
+        imprimir("default");
+        salir;
+} finsegun

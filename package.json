@@ -1,0 +1,19 @@
+{
+  "name": "antlr-calculator-project",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "interpretador.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node interpretador.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "antlr4": "^4.13.2",
+    "cli-table3": "^0.6.3"
+  }
+}
+

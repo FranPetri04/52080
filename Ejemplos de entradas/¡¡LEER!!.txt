@@ -1,0 +1,3 @@
+Copiar el contenido de cualquiera de los 4 txt (2 correctos y 2 incorrectos) en el archivo input.txt
+Luego guardar el archivo con Ctrl + S
+Ejecutar nuevamente con el nuevo input

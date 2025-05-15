@@ -1,0 +1,8 @@
+segun " x " hacer {
+    caso " uno ":
+        imprimir("Uno!");
+        salir;
+    defecto:
+        imprimir("Desconocido.");
+        salir;
+} finsegn

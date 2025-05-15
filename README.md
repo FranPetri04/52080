@@ -5,6 +5,8 @@
 - 📚 Tema: 39568_5  
 
 ---
+## Importante:
+No usar acentos en la palabras
 
 ## 📄 Descripción
 
